@@ -1,2 +1,2 @@
 # zerodha
-making zerodha claone
+making zerodha clone
